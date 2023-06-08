@@ -53,7 +53,7 @@ const Welcome = () => {
               style={styles.tab(activeJobType, item)}
               onPress={() => {
                 setActiveJobType(item);
-                route.push(`/search/${item}`);
+                // route.push(`/search/${item}`);
               }}
             >
               <Text style={styles.tabText(activeJobType, item)}>{item}</Text>
