@@ -4,8 +4,8 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "MY-app",
-    "slug": "MY-app",
+    "name": "Ashfaq's MultiJob",
+    "slug": "Ashfaq's_MultiJob",
     "android": {
       "package": "com.anonymous.MYapp"
     }
